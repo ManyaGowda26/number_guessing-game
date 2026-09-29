@@ -36,3 +36,4 @@ Too high! Try again.
 Enter your guess: 50
 Congratulations! You guessed it!
 Number of attempts: 3
+
